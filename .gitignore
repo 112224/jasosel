@@ -1,0 +1,5 @@
+/Lib/
+/venv/
+.idea
+chromedriver_win32.zip
+chromedriver_win32
